@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Kurt Kline, and I currently work as a Data Engineer in Frankfurt, Germany. 
+
+
+🌱 I’m hoping to learn more about Kafka, Spark, and cloud technologies (AWS, GCP)
 
 <!--
 **KurtKline/KurtKline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
