@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Originally from California, I currently work as a Data Engineer in Frankfurt, Germany. I currently work in FinTech, and I have previously worked in the gaming industry 🎮 and the automotive 🏎️ & powersports 🏍️ industries.
+Originally from California, I currently work as a Data Engineer @ Amazon in London. I currently work with Amazon's Prime Video, and I have previously worked in the gaming industry 🎮, the automotive 🏎️ & powersports 🏍️ industries, and FinTech.
 
-In my current role I primarily construct ETL pipelines using Python 🐍, SQL, and Airflow for scheduling. The data I use comes from APIs, FTPs, databases, and Kafka topics. 
+I really enjoy using Python 🐍 and SQL, and learning anything related to data engineering.
 
-
-🌱 I’m hoping to learn more about Kafka, distributed computing (Spark), and cloud technologies (AWS, GCP)
+🌱 I hope to continue acquiring more knowledge/experience with Kafka, distributed computing (Spark), and cloud technologies (AWS, GCP)
 
 <!--
 **KurtKline/KurtKline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
